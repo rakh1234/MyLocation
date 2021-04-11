@@ -1,4 +1,4 @@
-# MyLocation
+# MyLocation (GDSC solution challenge)
 A simple location app built with UIKit, that displays locations what you pin in . It consists of two screens:
 - main screen - displays location.
 - album - show you the pictures in the selected location.
@@ -33,3 +33,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
